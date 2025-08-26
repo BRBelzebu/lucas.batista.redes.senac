@@ -1,4 +1,4 @@
 def divisão(x,y):
     return x / y;
 
-print(divisão(3,7));
+print(divisão(5,10));
